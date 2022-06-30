@@ -1591,9 +1591,9 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #010246;
+  background: #00203FFF;
   color: #fff;
-  border-top: 4px solid #1acc8d;
+  border-top: 10px solid #ADEFD1FF;
   text-align: center;
   padding: 30px 20px;
 }
