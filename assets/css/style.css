@@ -123,7 +123,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgba(1, 4, 136, 0.9);
+  background: #00203FFF;
 }
 
 #header.header-transparent {
@@ -131,7 +131,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: #00203FFF;
   height: 60px;
 }
 
@@ -1017,6 +1017,7 @@ section {
 
 .details .content p:last-child {
   margin-bottom: 0;
+  
 }
 
 /*--------------------------------------------------------------
