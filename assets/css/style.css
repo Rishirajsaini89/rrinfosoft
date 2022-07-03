@@ -1339,7 +1339,7 @@ section {
 /*--------------------------------------------------------------
 # F.A.Q
 --------------------------------------------------------------*/
-.faq .faq-list {
+/* .faq .faq-list {
   padding: 0;
 }
 
@@ -1416,7 +1416,7 @@ section {
   .faq .faq-list {
     padding: 0;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Contact
@@ -1704,7 +1704,9 @@ section {
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
   background: #149f6e;
 }
-
+.vision_text_main{
+  color: green;
+}
 #footer .copyright {
   border-top: 1px solid #010479;
   text-align: center;
