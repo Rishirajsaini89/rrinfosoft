@@ -1012,12 +1012,39 @@ section {
 .details .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1acc8d;
+  color: #f00;
+}
+
+/* .careers_heading{
+  color: #3D3635; 
+} */
+.careers_content {
+  font-size: 30px;
+  text-align: center;
+  color: #00203FFF;
 }
 
 .details .content p:last-child {
   margin-bottom: 0;
-  
+
+}
+
+.career_button {
+  background: #ef3316;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.career_button:hover {
+  background-color: #18d26e;
+}
+
+.internships {
+  text-align: center;
+  color: #343a40;
 }
 
 /*--------------------------------------------------------------
@@ -1705,9 +1732,11 @@ section {
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
   background: #149f6e;
 }
-.vision_text_main{
+
+.vision_text_main {
   color: green;
 }
+
 #footer .copyright {
   border-top: 1px solid #010479;
   text-align: center;
